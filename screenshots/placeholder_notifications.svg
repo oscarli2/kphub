@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720">
+  <rect width="100%" height="100%" fill="#f6fbf9"/>
+  <rect x="40" y="40" width="1120" height="640" rx="12" fill="#ffffff" stroke="#eaf7ef"/>
+  <text x="50%" y="48%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#3c6b4a">Notifications Placeholder</text>
+  <text x="50%" y="56%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#9aa7b0">Replace with `screenshots/notifications.png`</text>
+</svg>

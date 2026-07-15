@@ -1,0 +1,82 @@
+2025-11-18 06:53:15 - Request received
+2025-11-18 06:53:15 - Input: {"folder_name":"TEST","files":[{"name":"553809123_24847328958240475_141091537478366701_n.jpg","size":142924,"type":"image\/jpeg"}]}
+2025-11-18 06:53:15 - Processing 1 files for user 1
+2025-11-18 06:53:15 - Logged file: 553809123_24847328958240475_141091537478366701_n.jpg (result: success)
+2025-11-18 07:54:22 - Request received
+2025-11-18 07:54:22 - Input: {"folder_name":"Decision Support","files":[{"name":"LGRRCR8.png","size":94749,"type":"image\/png"}]}
+2025-11-18 07:54:22 - Processing 1 files for user 3
+2025-11-18 07:54:22 - Logged file: LGRRCR8.png (result: success)
+2025-11-20 16:26:15 - Request received
+2025-11-20 16:26:15 - Input: {"folder_name":"Strategic Planning & Implementation","files":[{"name":"test.txt","size":4,"type":"text\/plain"}]}
+2025-11-20 16:26:15 - Processing 1 files for user 1
+2025-11-20 16:26:15 - Logged file: test.txt (result: success)
+2025-11-20 16:54:51 - Request received
+2025-11-20 16:54:51 - Input: {"folder_name":"Strategic Planning & Implementation","files":[{"name":"test.txt","size":4,"type":"text\/plain"}]}
+2025-11-20 16:54:51 - Processing 1 files for user 1
+2025-11-20 16:54:51 - Logged file: test.txt (result: success)
+2025-11-20 17:07:13 - Request received
+2025-11-20 17:07:13 - Input: {"folder_name":"Strategic Planning & Implementation","files":[{"name":"test.txt","size":4,"type":"text\/plain"}]}
+2025-11-20 17:07:13 - Processing 1 files for user 1
+2025-11-20 17:07:13 - Logged file: test.txt (result: success)
+2025-11-21 07:46:05 - Request received
+2025-11-21 07:46:05 - Input: {"folder_name":"Strategic Planning & Implementation","files":[{"name":"pic.png","size":1700089,"type":"image\/png"}]}
+2025-11-21 07:46:05 - Processing 1 files for user 1
+2025-11-21 07:46:05 - Logged file: pic.png (result: success)
+2025-11-21 07:53:28 - Request received
+2025-11-21 07:53:28 - Input: {"folder_name":"Strategic Planning & Implementation","files":[{"name":"LGRRCR8.png","size":94749,"type":"image\/png"}]}
+2025-11-21 07:53:28 - Processing 1 files for user 1
+2025-11-21 07:53:28 - Logged file: LGRRCR8.png (result: success)
+2025-11-21 08:01:51 - Request received
+2025-11-21 08:01:51 - Input: {"folder_name":"Strategic Planning & Implementation","files":[{"name":"Machine Catalog - May 2025_1.pdf","size":30767426,"type":"application\/pdf"},{"name":"LGRRC-Minutes_October-30-2025-1.docx","size":3432840,"type":"application\/vnd.openxmlformats-officedocument.wordprocessingml.document"}]}
+2025-11-21 08:01:51 - Processing 2 files for user 1
+2025-11-21 08:01:51 - Exception: Invalid filename
+2025-11-21 08:25:00 - Request received
+2025-11-21 08:25:00 - Input: {"folder_name":"Strategic Planning & Implementation","files":[{"name":"AWSKoreaBasket (1).mov","size":22521332,"type":"video\/quicktime"},{"name":"RO8_SitRep-No.7-for-TC-Tino-as-of-November-4-2025-1000AM.docx","size":4571295,"type":"application\/vnd.openxmlformats-officedocument.wordprocessingml.document"},{"name":"IMG_20250804_085140.jpg","size":2358803,"type":"image\/jpeg"}]}
+2025-11-21 08:25:00 - Processing 3 files for user 1
+2025-11-21 08:25:00 - Exception: Invalid filename
+2025-11-24 07:21:05 - Request received
+2025-11-24 07:21:05 - Input: {"folder_name":"Knowledge Products","files":[{"name":"BARCO  Infographics.pdf","size":7371280,"type":"application\/pdf"},{"name":"KALINISAN  Infographics.pdf","size":7277875,"type":"application\/pdf"},{"name":"LTIA  Infographics.pdf","size":4686776,"type":"application\/pdf"},{"name":"RCSP Infographics.pdf","size":7011947,"type":"application\/pdf"},{"name":"What is DILG  Infographics.pdf","size":6361376,"type":"application\/pdf"}]}
+2025-11-24 07:21:05 - Processing 5 files for user 9
+2025-11-24 07:21:05 - Exception: Invalid filename
+2025-11-24 07:21:37 - Request received
+2025-11-24 07:21:37 - Input: {"folder_name":"Knowledge Products","files":[{"name":"Tungkulin bilang isang Tanod  Infographics.pdf","size":3842792,"type":"application\/pdf"}]}
+2025-11-24 07:21:37 - Processing 1 files for user 9
+2025-11-24 07:21:37 - Exception: Invalid filename
+2025-11-24 07:58:07 - Request received
+2025-11-24 07:58:07 - Input: {"folder_name":"Procurement and Disposal Flowchart","files":[{"name":"Memo_Dissemination of Flowcharts on Supply Unit Processes.pdf","size":1258582,"type":"application\/pdf"}]}
+2025-11-24 07:58:07 - Processing 1 files for user 6
+2025-11-24 07:58:07 - Exception: Invalid filename
+2025-11-24 07:59:15 - Request received
+2025-11-24 07:59:15 - Input: {"folder_name":"Bayanihan Emergency Fund","files":[{"name":"Bayanihan Emergency Fund Guidelines.pdf","size":263631,"type":"application\/pdf"}]}
+2025-11-24 07:59:15 - Processing 1 files for user 6
+2025-11-24 07:59:15 - Exception: Invalid filename
+2025-11-26 06:47:45 - Request received
+2025-11-26 06:47:45 - Input: {"folder_name":"Strategic Planning & Implementation","files":[{"name":"REGIONAL-COMPILATION-OF-BEST-PRACTICES.docx","size":1286800,"type":"application\/vnd.openxmlformats-officedocument.wordprocessingml.document"}]}
+2025-11-26 06:47:45 - Processing 1 files for user 4
+2025-11-26 06:47:45 - Logged file: REGIONAL-COMPILATION-OF-BEST-PRACTICES.docx (result: success)
+2025-11-30 13:00:33 - Request received
+2025-11-30 13:00:33 - Input: {"folder_name":"SGLG","files":[{"name":"dilg-reports-resources-2015915_f05b70a93d.pdf","size":1914302,"type":"application\/pdf"}]}
+2025-11-30 13:00:33 - Processing 1 files for user 4
+2025-11-30 13:00:33 - Logged file: dilg-reports-resources-2015915_f05b70a93d.pdf (result: success)
+2025-11-30 13:49:13 - Request received
+2025-11-30 13:49:13 - No user_id in session
+2025-11-30 13:56:25 - Request received
+2025-11-30 13:56:25 - No user_id in session
+2025-11-30 13:57:38 - Request received
+2025-11-30 13:57:38 - No user_id in session
+2025-11-30 14:07:51 - Request received
+2025-11-30 14:07:51 - No user_id in session
+2025-11-30 14:09:39 - Request received
+2025-11-30 14:09:39 - No user_id in session
+2025-11-30 14:10:42 - Request received
+2025-11-30 14:10:42 - No user_id in session
+2025-12-02 08:04:10 - Request received
+2025-12-02 08:04:10 - Input: {"folder_name":"Research Papers","files":[{"name":"A Study Assessing Residents\u2019 Awareness of LGUs Financial Documents.pdf","size":1272013,"type":"application\/pdf"},{"name":"A Study on the A Study on the Canigao Island\u2019s Revenue And Its Impact To The Economic Growth Of Matalom, Leyte.pdf","size":2152828,"type":"application\/pdf"},{"name":"A Study on the A Study on the Digital Transformation in the Business Permitting and Licensing System of Panaon.pdf","size":2624258,"type":"application\/pdf"},{"name":"A Study on the A Study on the Perceived Satisfaction Of The Recipients On The Utilization Of Local Disaster Risk Reduction And Management Fund (LDRRMF).pdf","size":3879805,"type":"application\/pdf"},{"name":"A Study on the e-NGAs Implementation In Southern Leyte LGUs - An Analysis Of Awareness And Readiness.pdf","size":5765125,"type":"application\/pdf"}]}
+2025-12-02 08:04:10 - Processing 5 files for user 4
+2025-12-02 08:04:10 - Exception: Invalid filename
+2025-12-02 08:04:45 - Request received
+2025-12-02 08:04:45 - Input: {"folder_name":"Research Papers","files":[{"name":"A Study on the Impact Of Financial Planning Adherence To Barangay Budget Execution Of The Selected Barangay In Maasin City.pdf","size":2602317,"type":"application\/pdf"},{"name":"A Study on the Level of Sangguniang Bayan Members' Financial Literacy and Its Influence on Decision-Making Skills as a Legislative Body.pdf","size":2503627,"type":"application\/pdf"},{"name":"A Study on the Residents\u2019 Awareness And Satisfaction Towards Full Disclosure Policy Implementation.pdf","size":2337096,"type":"application\/pdf"}]}
+2025-12-02 08:04:45 - Processing 3 files for user 4
+2025-12-02 08:04:45 - Exception: Invalid filename
+2026-03-19 06:13:59 - Request received
+2026-03-19 06:13:59 - No user_id in session

@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>KP-HUB Manual (Printable)</title>
+  <style>
+    body { font-family: Arial, Helvetica, sans-serif; color: #222; margin: 30px; }
+    img { max-width: 100%; height: auto; display: block; margin: 12px 0; }
+    .manual-container { max-width: 900px; margin: 0 auto; }
+    h1, h2, h3 { color: #1b3b50; }
+    pre, code { background: #f5f7fa; padding: 8px; border-radius: 4px; }
+    .page-break { page-break-after: always; }
+    /* Print-friendly adjustments */
+    @media print {
+      body { margin: 10mm; }
+      .no-print { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="manual-container">
+    <div style="text-align:center; margin-bottom:18px;">
+      <h1>KP-HUB Manual</h1>
+      <div>Generated: 2025-11-19</div>
+    </div>
+
+    <div id="content"></div>
+
+    <div style="margin-top:18px; font-size:12px; color:#666;" class="no-print">
+      <em>Note: This is a printable rendering of `README-USER.md` and `README-ADMIN.md`.</em>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    async function loadAndRender() {
+      const paths = ['README-USER.md', 'README-ADMIN.md'];
+      const container = document.getElementById('content');
+
+      for (let i = 0; i < paths.length; i++) {
+        const p = paths[i];
+        try {
+          const res = await fetch(p);
+          if (!res.ok) throw new Error('Failed to load ' + p);
+          const md = await res.text();
+          const html = marked.parse(md);
+          container.insertAdjacentHTML('beforeend', html);
+
+          if (i < paths.length - 1) {
+            container.insertAdjacentHTML('beforeend', '<div class="page-break"></div>');
+          }
+        } catch (err) {
+          container.insertAdjacentHTML('beforeend', '<h2>Unable to load ' + p + '</h2><pre>' + err.message + '</pre>');
+        }
+      }
+    }
+
+    loadAndRender();
+  </script>
+</body>
+</html>

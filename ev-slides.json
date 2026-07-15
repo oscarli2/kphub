@@ -1,0 +1,22 @@
+[
+  {
+    "type": "image",
+    "src": "https://via.placeholder.com/1200x600.png?text=EV+Slide+1",
+    "title": "Welcome to EV LGRRC",
+    "caption": "Knowledge hub for Region VIII",
+    "duration": 5000
+  },
+  {
+    "type": "image",
+    "src": "https://via.placeholder.com/1200x600.png?text=EV+Slide+2",
+    "title": "Our Programs",
+    "caption": "Capacity Development, Linkage, Multimedia, and more.",
+    "duration": 5000
+  },
+  {
+    "type": "text",
+    "title": "Our Mission",
+    "caption": "To uphold integrity and social responsibility that promote collaboration for excellence in local governance.",
+    "duration": 6000
+  }
+]
